@@ -27,3 +27,5 @@ Model Evaluation: Evaluate the model's performance using appropriate metrics lik
 Results and Insights: Summarize the findings, including insights into how the fraud case involving Rana Kapoor may or may not have affected Yes Bank's stock prices. Discuss the practical implications of the model's predictions.
 
 This project aims to provide valuable insights into the factors influencing Yes Bank's stock prices and assess the predictive capabilities of various regression models. The results may assist investors and financial analysts in making informed decisions regarding the bank's stock.
+
+Detailed Presentation of the Project - https://drive.google.com/file/d/1uAM_CVpnRWyi7e125p3IYj2z4JD5wzCP/view?usp=drive_link
